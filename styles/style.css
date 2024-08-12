@@ -36,7 +36,7 @@ html {
 .page__title {
     position: static;
     z-index: 1;
-    max-width: 720px;
+    max-width: 800px;
     margin: 0 auto;
     font-size: 116px;
     letter-spacing: 3.5px;
@@ -69,8 +69,8 @@ html {
     font-size: 35px;
     line-height: 1;
     letter-spacing: normal;
-    text-align: center;
+    text-align: left;
     text-transform: initial;
     background-color: #fff;
-    white-space:inherit;
+    white-space:pre;
 }
