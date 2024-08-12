@@ -4,7 +4,7 @@
         url(./Raleway-Regular.woff2) format('woff2'),
         url(./Raleway-Regular.woff) format('woff');
     font-weight: normal;
-    font-display: swap;    
+    font-display: swap;
 }
 
 @font-face {
@@ -12,5 +12,5 @@
     src: url(./Raleway-ExtraBold.woff2) format('woff2'),
          url(./Raleway-ExtraBold.woff) format('woff');
     font-weight: bold;
-    font-display: swap;     
+    font-display: swap;
 }
