@@ -69,8 +69,8 @@ html {
     font-size: 35px;
     line-height: 1;
     letter-spacing: normal;
-    text-align: center;
+    text-align: left;
     text-transform: initial;
     background-color: #fff;
-    white-space:inherit;
+    white-space: pre;
 }
